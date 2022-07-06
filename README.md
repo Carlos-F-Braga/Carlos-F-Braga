@@ -13,12 +13,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJs" **alt="AngularJs" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="PremierePro"  alt="PremierePro" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Npm" alt="Npm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" **alt="Chrome" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>
 </div>
 
 
