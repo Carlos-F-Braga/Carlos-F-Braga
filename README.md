@@ -28,6 +28,6 @@
   
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Carlos-F-Braga&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-F-Braga)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Top Langs]([![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
   
 </div>
