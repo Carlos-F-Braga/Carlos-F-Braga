@@ -1,6 +1,12 @@
-# Carlos-F-Braga-README
+# Carlos-F-Braga
 ## Fullstack Software Developer
 ### Javascript, Php, Node.js and React.js
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+<img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
 
 
 
@@ -28,6 +34,6 @@
   
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Carlos-F-Braga&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Carlos-F-Braga&theme=default)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Carlos-F-Braga&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
   
 </div>
