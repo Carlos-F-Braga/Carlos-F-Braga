@@ -3,11 +3,12 @@
 ### Javascript, Php, Node.js and React.js
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Graphql-161e26?style=for-the-badge&logo=graphql&logoColor=E535AB" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;
-
+<img src="https://img.shields.io/badge/Php-8892BF?style=for-the-badge&logo=php&logoColor=black" />&nbsp;
 
 
 ---
