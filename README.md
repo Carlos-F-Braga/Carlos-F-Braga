@@ -38,3 +38,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Carlos-F-Braga&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
   
 </div>
+
+### :snake: Sneak Eating my Contribution Graph :
+![Snake animation](https://github.com/Carlos-F-Braga/Carlos-F-Braga/blob/output/github-contribution-grid-snake.svg)
+
