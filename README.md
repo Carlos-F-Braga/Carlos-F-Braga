@@ -1,5 +1,8 @@
 # Carlos-F-Braga
 ## Fullstack Software Developer
+![image](https://user-images.githubusercontent.com/99403298/219439676-21ccc651-d5cf-49fd-a081-20a87b2a5928.png)
+
+
 ### Javascript, Php, Node.js, Graphql, Angular and React.js
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
