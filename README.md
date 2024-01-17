@@ -46,7 +46,5 @@
 <div>
   
 ### :fire: My Work :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Carlos-F-Braga&theme=dark&background=000000)](https://git.io/streak-stats)
-  
 </div>
 
