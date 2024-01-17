@@ -45,12 +45,8 @@
 
 <div>
   
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Carlos-F-Braga&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Carlos-F-Braga&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
+### :fire: My Work :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Carlos-F-Braga&theme=dark&background=000000)](https://git.io/streak-stats)
   
 </div>
-
-### :snake: Sneak Eating my Contribution Graph :
-![Snake animation](https://github.com/Carlos-F-Braga/Carlos-F-Braga/blob/output/github-contribution-grid-snake.svg)
 
