@@ -40,6 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Carlos-F-Braga&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Carlos-F-Braga&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp;
 
 ---
 
